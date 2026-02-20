@@ -21,13 +21,13 @@ samples, guidance on mobile development, and a full API reference.
 ### Authentication
 | Login Screen | Registration Screen |
 |:---:|:---:|
-| <img src="APP/login.jpeg" width="250" alt="Login"> |
-<img src="APP/register.jpeg" width="250" alt="Register"> |
+| <img src="APP/login.jpg" width="250" alt="Login"> |
+<img src="APP/register.jpg" width="250" alt="Register"> |
 
 ### Main Features
 | Recent Chats | Users List | Chat Screen |
 |:---:|:---:|:---:|
-| <img src="APP/chat_screen.jpeg" width="200" alt="Chat_screen"> | |<img src="APP/chat_users_lists.jpeg" width="200" alt="chat_users_Lists"> |  
+| <img src="APP/chat_screen.jpg" width="200" alt="Chat_screen"> | |<img src="APP/chat_users_lists.jpg" width="200" alt="chat_users_Lists"> |  
 
 EASTER JAMES KATARAIGA NIT/BCS/2023/543
 FRUGENCE FROLIAN       NIT/BCS/2023/499
@@ -37,3 +37,4 @@ TEDDY KALIKWELA        NIT/BCS/2021/342
 CHRISTOM DASTAN         NIT/BCS/2023/531
 DANIEL MAGHABE          NIT/BCS/2023/615
 ANDREW MKOCHA            NIT/BCS/2023/532
+
